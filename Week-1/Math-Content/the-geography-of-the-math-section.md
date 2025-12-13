@@ -53,4 +53,9 @@ For example, if you do a percent calculation on your calculator and then hit "Tr
 
 2. **Calculators can be a liability**. ETS will give you questions that you can solve with a calculator, but the calculator can actually be a liability. You will be tempted to use it.
 For example, students who are uncomfortable adding, subsctracting, multiplying, or dividing fractions may be **tempted to convert all fractions to decimals using the calculator. Don't do it.**
-You're better off mastering 
+You're better off mastering fractions than avoiding them.
+Working with exponents and square roots is another way in which the calculator will be tempting but may yield really big and awkward numbers or long decimals. **You are much better off learning the rules of manipulating exponents and square roots.**
+Most of these problems willl be faster and cleaner to solve with rules than with a calculator. Time spent trying to get an answer out of a calculator for problems involving really big numbers will be time wasted.
+Find another way around.
+
+3. **A calculator won't make you faster.** Having a calculator wshould make you more accurate, but not necessarily
